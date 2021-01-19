@@ -1,5 +1,6 @@
 # InstaClone
 
+## By Edith Reine
 
 Kipngetich Ngeno
 
