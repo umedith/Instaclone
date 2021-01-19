@@ -1,4 +1,3 @@
-APP NAME
 Instagram Clone
 AUTHOR
 Kipngetich Ngeno
