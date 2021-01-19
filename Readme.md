@@ -31,7 +31,7 @@ This project uses major technologies which are :
 - Bootstrap
 - Python3.6
 - Django Frane Work
-Postgress Database
+- Postgress Database
 Support and Contacts
 In case You have any issues using this code please do no hesitate to get in touch with me through khalifngeno@gmail.com or leave a commit here on github.
 
