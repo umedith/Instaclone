@@ -21,7 +21,8 @@ As a user can do the following:
 With internet you can access this project in your browser
 
 ## Known Bugs
-No known bugs
+
+No known bugs so far
 
 CREDITS
 Moringa School,Python Documentation, StackOverflow.com and W3 schools
