@@ -1,6 +1,6 @@
 # InstaClone
 
-AUTHOR
+
 Kipngetich Ngeno
 
 DESCRIPTION
