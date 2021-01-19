@@ -27,7 +27,7 @@ No known bugs so far
 ## Technologies Used
 This project uses major technologies which are :
 
-HTML5/CSS
+- HTML5/CSS
 Bootstrap
 Python3.6
 Django Frane Work
