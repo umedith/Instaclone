@@ -28,7 +28,7 @@ No known bugs so far
 This project uses major technologies which are :
 
 - HTML5/CSS
-Bootstrap
+- Bootstrap
 Python3.6
 Django Frane Work
 Postgress Database
