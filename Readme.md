@@ -24,10 +24,7 @@ With internet you can access this project in your browser
 
 No known bugs so far
 
-CREDITS
-Moringa School,Python Documentation, StackOverflow.com and W3 schools
-
-Technologies Used
+## Technologies Used
 This project uses major technologies which are :
 
 HTML5/CSS
