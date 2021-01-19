@@ -2,8 +2,6 @@
 
 ## By Edith Reine
 
-Kipngetich Ngeno
-
 DESCRIPTION
 This is an application more or less like the popular social media platform Instagram where users can sign up, post pictures view pictures posted by others comment on them as well as like or dislike the pictures
 
