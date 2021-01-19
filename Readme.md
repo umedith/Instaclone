@@ -35,6 +35,7 @@ This project uses major technologies which are :
 
 ## Live site
 
+https://eddinsta.herokuapp.com/
 
 ## Support and Contacts
 
