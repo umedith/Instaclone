@@ -16,28 +16,8 @@ As a user can do the following:
 - A user can Follow other users and see their the users timeline.
 - Like a picture and leave a comment on it.
 
-Set Up and Installation
-Prerequisites
-Python 3.6.2
-Virtual environment
-Postgres Database
-Reliable Internet Connection
-Installation Process
-Copy repolink
-in your terminal run the following commands
+## Set Up and Installation
 
-$ git clone REPO-URL in your terminal
-$ cd Instagram_clone
-$ python3.6 -m venv virtual
-$ touch .env ( to the file add : SECRET_KEY= DEBUG=True)
-$ source virtual/bin/activate
-$ python3.6 -m pip install -r requirements.txt
-$ psql ; CREATE DATABASE instagram ;
-In the settings.py module of the project make the following changes
-
-DATABASES = { 'default': { 'ENGINE': 'django.db.backends.postgresql', 'NAME': 'instagram', 'USER': POSTGRES_USERNAME, 'PASSWORD': POSTGRES_USERNAME, } }
-
-$ python3.6 manage.py runserver (this command runs the application of port http://127.0.0.1/8000 )
 Known Bugs
 No known bugs
 
