@@ -14,7 +14,7 @@ As a user can do the following:
 - Upload pictures to the application.
 - View their profiles containing all their pictures
 - A user can Follow other users and see their the users timeline.
-Like a picture and leave a comment on it.
+- Like a picture and leave a comment on it.
 Set Up and Installation
 Prerequisites
 Python 3.6.2
