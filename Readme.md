@@ -18,6 +18,8 @@ As a user can do the following:
 
 ## Set Up and Installation
 
+With internet you can access this project in your browser
+
 Known Bugs
 No known bugs
 
