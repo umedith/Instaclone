@@ -1,4 +1,3 @@
-Instagram Clone
 AUTHOR
 Kipngetich Ngeno
 
