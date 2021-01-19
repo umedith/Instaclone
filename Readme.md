@@ -38,4 +38,4 @@ This project uses major technologies which are :
 email : umedith03@gmail.com
 
 License
-Copyright MIT LiCENSE (c) 2017 Kipngetich Ngeno
+Copyright MIT LiCENSE (c) 2017 Edit reine
